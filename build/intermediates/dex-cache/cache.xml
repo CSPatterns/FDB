@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\classes-6b85da7c323a10d26b1686bc60d64a1d1239e80d.jar" />
-    </item>
-    <item
-        jar="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
-        <dex dex="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-389707c8d572767f353f81f7f60b07aa4ea11b57.jar" />
-    </item>
-    <item
         jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\gson-2.3.1-172b0f311ee89e415f1cf9ca11b4272b224e9fbe.jar" />
-    </item>
-    <item
-        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-87691419c051c8795bb3e0efefcc4c45367712a4.jar" />
+        <dex dex="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\pre-dexed\debug\gson-2.3.1-172b0f311ee89e415f1cf9ca11b4272b224e9fbe.jar" />
     </item>
     <item
         jar="C:\Users\ad024433\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-218cf32e0665a083b8b77499c4ad60043cd36869.jar" />
+        <dex dex="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-218cf32e0665a083b8b77499c4ad60043cd36869.jar" />
     </item>
     <item
-        jar="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jar="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="C:\Users\ad024433\Desktop\startercode\Sunshine-Version-2\app\build\intermediates\pre-dexed\debug\classes-31c783986d3e26e06625257c0c911ff1137386b1.jar" />
+        <dex dex="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\pre-dexed\debug\classes-c8234ca7aa8ce9ad8e195b64b827209a2a9e0e69.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-3f59f49a0fdf949faff749d2116d9e9e80752e8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-87691419c051c8795bb3e0efefcc4c45367712a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\ad024433\Desktop\startercode\FDB\app\build\intermediates\pre-dexed\debug\classes-62f2744da565ee1db5018f33f6cb387162f0389b.jar" />
     </item>
 
 </items>
